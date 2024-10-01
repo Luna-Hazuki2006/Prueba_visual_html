@@ -4,3 +4,26 @@
     stroke-width: 5; 
     fill-rule: evenodd;
 }
+
+.cuadradito {
+    fill: red; 
+    stroke: black; 
+    stroke-width: 5; 
+    opacity: 0.5;
+}
+
+.rectangulo {
+    fill: rgb(0,0,255); 
+    stroke-width: 10; 
+    stroke:rgb(0,0,0); 
+}
+
+.principio {
+    stop-color: rgb(0, 255, 98); 
+    stop-opacity: 1; 
+}
+
+.final {
+    stop-color: rgb(255, 0, 212); 
+    stop-opacity: 1; 
+}
